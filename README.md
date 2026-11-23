@@ -2,3 +2,6 @@ Este es un proyecto que he ido haciendo basandome en gran parte en los libros de
 cuales son unos maquinas ya que no se centran demasiado en explicaciones teoricas y lo van haciendo sobre la mmarcha a la par que van realizando ejemplos o 
 ejercicios muy chulos. Esto es tan solo una recopilación de algunos de los proyectos mas chulos que he hecho hasta la fecha, espero que les guste tanto como 
 a mi :D
+
+AVISO IMPORTANTE: si te vas a basar en esos libros a la hora de realizar tus propias simulaciones, debes saber que para el momento en el que subo esto, los
+bloques de codigo "WX GUI" están obsoletos, por lo que yo emplee en su lugar los "QT GUI", que son los cuales les reemplazan en las versiones más modernas :)
